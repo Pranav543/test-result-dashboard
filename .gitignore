@@ -1,0 +1,18 @@
+# .NET
+backend/*/bin/
+backend/*/obj/
+backend/**/*.db
+backend/**/*.db-shm
+backend/**/*.db-wal
+*.user
+.vs/
+
+# EF Migrations 
+
+# React / Node
+frontend/test-dashboard-ui/node_modules/
+frontend/test-dashboard-ui/dist/
+.env.local
+
+# macOS
+.DS_Store
